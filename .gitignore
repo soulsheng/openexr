@@ -81,3 +81,17 @@ missing
 /IlmBase/build12/*.suo
 /IlmBase/build12/*.opensdf
 /IlmBase/build12/*.txt
+/IlmBase/build12/Half/Release
+/IlmBase/build12/Iex/Release
+/IlmBase/build12/IlmThread/Release
+/IlmBase/build12/Imath/Release
+/IlmBase/build12/IexMath/Release
+/IlmBase/build12/Half/x64
+/IlmBase/build12/Iex/x64
+/IlmBase/build12/IexMath/x64
+/IlmBase/build12/IexTest/x64
+/IlmBase/build12/IlmThread/x64
+/IlmBase/build12/Imath/x64
+/IlmBase/build12/ImathTest/x64
+/IlmBase/build12/x64
+/IlmBase/lib12x64
